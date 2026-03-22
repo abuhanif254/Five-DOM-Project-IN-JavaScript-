@@ -16,10 +16,10 @@ This repository is a hands-on journey through the JavaScript Document Object Mod
 
 ## 🛠 Projects Overview
 
-### 1. [Project Name - e.g., Quote Generator]
-- **Description:** Briefly explain what it does.
-- **Key Features:** Fetches dynamic data, responsive UI.
-- **Concepts:** `fetch()`, `innerText`, Event Listeners.
+### 1. [Project Name - Random Color Generator]
+- **Description:** A random color generator whitch is chenged background color after clicked on random color generator button.
+- **Key Features:** function clling, event listaner.
+- **Concepts:**  `innerText`, Event Listeners.
 
 ### 2. [Project Name - e.g., To-Do List]
 - **Description:** A simple task manager.
